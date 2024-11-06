@@ -6,14 +6,7 @@
 ### <div align="center">I'm Dylan, A Passionate High-School Programmer 💻</div>  
   
 
-- 🌱 I’m currently learning C#  
-  
 
-- ❓ Ask me about anything  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
